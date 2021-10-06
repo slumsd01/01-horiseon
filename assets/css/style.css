@@ -1,3 +1,4 @@
+/* universal modifications */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -13,7 +14,9 @@
     float: right;
     margin-left: 25px;
 }
-
+p {
+    font-size: 16px;
+}
 body {
     background-color: #d9dcd6;
 }
@@ -25,6 +28,7 @@ header {
     color: #ffffff;
 }
 
+/* Horiseon logo customization */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -34,6 +38,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* navigation links */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -56,10 +61,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,13 +71,14 @@ p {
     background-position: center;
 }
 
-
+/* main page content */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* features */
 .features {
     margin-bottom: 20px;
     padding: 50px;
@@ -94,6 +97,7 @@ main {
     font-size: 36px;
 }
 
+/* benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +125,7 @@ main {
     max-width: 150px;
 }
 
+/* footer */
 footer {
     padding: 30px;
     clear: both;
