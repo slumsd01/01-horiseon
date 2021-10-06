@@ -4,7 +4,7 @@
 A website offering a service to help increase business reach and growth.
 
 ```md
-![Horiseon landing page](assets/images/screenshot.png)
+[Horiseon landing page](assets/images/screenshot.png)
 ```
 
 ## Built With
