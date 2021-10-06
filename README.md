@@ -10,7 +10,7 @@ A website offering a service to help increase business reach and growth.
 * CSS
 
 ## Website
-LINK HERE
+https://slumsd01.github.io/01-horiseon/
 
 ## Contribution
 Sarah Lumsden - https://github.com/slumsd01
