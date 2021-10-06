@@ -1,7 +1,11 @@
 # Horiseon
 
 ## Description
-A website for the marketing agency, Horiseon.
+A website offering a service to help increase business reach and growth.
+
+```md
+![Horiseon landing page](assets/images/screenshot.png)
+```
 
 ## Built With
 * HTML
