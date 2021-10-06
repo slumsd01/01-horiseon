@@ -1,9 +1,9 @@
 # Horiseon
 
+![Horiseon landing page](assets/images/screenshot.png)
+
 ## Description
 A website offering a service to help increase business reach and growth.
-
-![Horiseon landing page](assets/images/screenshot.png)
 
 ## Built With
 * HTML
