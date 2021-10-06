@@ -13,6 +13,6 @@ A website offering a service to help increase business reach and growth.
 LINK HERE
 
 ## Contribution
-Made with ❤️ by Sarah Lumsden
+Sarah Lumsden - https://github.com/slumsd01
 
 ### 2019 Horiseon Social Solution Services, Inc.
