@@ -1,9 +1,9 @@
 # Horiseon
 
+![Horiseon landing page](assets/images/screenshot.png)
+
 ## Description
 Horiseon is a company offering a service to help increase business reach and growth. I was tasked with improving usability and accessibilities for all visitors.
-
-![Horiseon landing page](assets/images/screenshot.png)
 
 ## Built With
 * HTML
@@ -14,6 +14,6 @@ Horiseon is a company offering a service to help increase business reach and gro
 
 ## Contribution
 * Base code by Horiseon team
-* Refracted by [Sarah Lumsden](https://github.com/slumsd01) 
+* Refracted by [Sarah Lumsden](https://github.com/slumsd01)
 
 ### 2019 Horiseon Social Solution Services, Inc.
