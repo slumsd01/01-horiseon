@@ -1,20 +1,19 @@
 # Horiseon
 
 ## Description
-A website offering a service to help increase business reach and growth.
+Horiseon is a company offering a service to help increase business reach and growth. I was tasked with improving usability and accessibilities for all visitors.
 
-```md
 ![Horiseon landing page](assets/images/screenshot.png)
-```
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-LINK HERE
+[Horiseon](https://slumsd01.github.io/01-horiseon/)
 
 ## Contribution
-Made with ❤️ by Sarah Lumsden
+* Base code by Horiseon team
+* Refracted by [Sarah Lumsden](https://github.com/slumsd01) 
 
 ### 2019 Horiseon Social Solution Services, Inc.
